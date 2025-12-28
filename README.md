@@ -1,5 +1,7 @@
 # End-to-End Machine Learning Project: Student Performance Prediction
 
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/22677ccc-f0a5-45d2-ae25-685ddc4c72f5" />
+
 ## Project Overview
 This project focuses on predicting students’ exam scores using machine learning regression techniques based on their study habits, lifestyle choices, and well-being indicators. The goal is to demonstrate how data-driven insights can support academic decision-making and early intervention strategies in educational institutions.
 

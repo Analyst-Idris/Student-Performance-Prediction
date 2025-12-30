@@ -129,9 +129,27 @@ To demonstrate real-world usability, the trained model was deployed as an intera
 - Deploy the Streamlit app to Streamlit Cloud
 - Introduce classification for risk-level prediction
 
+## Live Demo
+The model has been deployed as an interactive Streamlit application.
+
+**Live App:** https://student-performance-predictor.streamlit.app
+
+Users can input student lifestyle details and receive real-time exam score predictions.
+
 ---
 
 ## Author
+
 **Idris Oladejo**  
 Data Analyst | Machine Learning Enthusiast  
-Skilled in Python, SQL, Excel, Power BI, and predictive analytics
+
+Skilled in **Python, SQL, Excel, Power BI**, **SPSS for Statistical Analysis**, and **predictive analytics**, with a strong focus on transforming data into actionable insights and building end-to-end analytical and machine learning solutions.
+
+### Collaboration & Opportunities
+I am open to **teamwork, technical collaborations, freelance gigs, and internship opportunities** and **job opportunities** in data analytics and machine learning.  
+If you’re interested in working together or discussing potential opportunities, feel free to reach out.
+
+### Contact
+- 📞 Phone: +234 702 506 2857  
+- 📧 Email: oladejoidris55@gmail.com
+
